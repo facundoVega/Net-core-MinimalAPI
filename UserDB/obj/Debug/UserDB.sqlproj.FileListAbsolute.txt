@@ -1,0 +1,6 @@
+C:\Users\facundo.vega\source\repos\minimalApiDemoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\facundo.vega\source\repos\minimalApiDemoApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\facundo.vega\source\repos\minimalApiDemoApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\facundo.vega\source\repos\minimalApiDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\minimalApiDemoApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\facundo.vega\source\repos\minimalApiDemoApp\UserDB\obj\Debug\UserDB.pdb
